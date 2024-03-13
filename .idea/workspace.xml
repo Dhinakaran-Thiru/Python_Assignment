@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3911bfb-bc78-4850-b44a-0980dc85f1ce" name="Changes" comment="3 test cases completed">
-      <change afterPath="$PROJECT_DIR$/src/no_idea_problem/driver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/no_idea_problem/util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/no_idea_problem/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/word_order_problem/driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/word_order_problem/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/word_order_problem/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

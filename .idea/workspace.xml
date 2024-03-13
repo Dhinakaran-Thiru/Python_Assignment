@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3911bfb-bc78-4850-b44a-0980dc85f1ce" name="Changes" comment="3 test cases completed">
-      <change afterPath="$PROJECT_DIR$/src/validating_email_address/driver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/validating_email_address/util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/validating_email_address/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/text_alignment/driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/text_alignment/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/text_alignment/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

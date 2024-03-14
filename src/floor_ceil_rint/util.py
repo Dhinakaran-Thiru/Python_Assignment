@@ -1,15 +1,16 @@
+import numpy
 def new_array(arr):
-    # Split the input string into a list of floats
+
     arr = [float(x) for x in arr.split()]
 
-    # Round down each element
+    
     floor_arr = [int(x) for x in arr]
 
-    # Increment each element by 1
-    ceil_arr = [x + 1 for x in arr]
+    
+    ceil_arr = [ceil(x) for x in arr]
 
-    # Remove the element at index 5
-    rint_arr = arr[:5] + arr[6:]
+   
+    rint_arr = [rint(x) for x in arr]
 
     return floor_arr, ceil_arr, rint_arr
 

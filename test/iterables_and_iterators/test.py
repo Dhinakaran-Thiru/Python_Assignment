@@ -7,4 +7,4 @@ class TestProbability(unittest.TestCase):
         self.assertAlmostEqual(result, 0.8333, places=4)
 
 if __name__ == "__main__":
-    unittest.main()
+    unittest.main() 

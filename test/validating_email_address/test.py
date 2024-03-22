@@ -10,7 +10,7 @@ class TestIsValidEmail(unittest.TestCase):
         self.assertTrue(is_valid_email("britts_54@hackerrank.com"))
 
 
-
+ 
 if __name__ == '__main__':
     unittest.main()
 

@@ -9,7 +9,7 @@ class MyTestCase(unittest.TestCase):
            ' HHH         HHH        ',
            ' HHH         HHH        ',
            ' HHH         HHH        ',
-           ' HHH         HHH        ',
+           ' HHH         HHH        ', 
            ' HHHHHHHHHHHHHHH  ',
            ' HHHHHHHHHHHHHHH  ',
            ' HHH         HHH        ',

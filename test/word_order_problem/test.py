@@ -9,5 +9,5 @@ class TestCountWordOccurrences(unittest.TestCase):
         expected_result = {'bcdef': 2, 'abcdefg': 1, 'bcde': 1}
         self.assertEqual(word_counting(n, words), expected_result)
 
-if __name__ == '__main__':
+if __name__ == '__main__': 
     unittest.main()

@@ -7,4 +7,4 @@ class TestCanStackCubes(unittest.TestCase):
         self.assertEqual(piling_up(3, [1, 3, 2]), "No")
 
 if __name__ == '__main__':
-    unittest.main()
+    unittest.main() 

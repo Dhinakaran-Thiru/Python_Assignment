@@ -10,4 +10,4 @@ class TestCalculateHappiness(unittest.TestCase):
         self.assertEqual(calculate_happiness(n, m, arr, a, b), 1)
 
 if __name__ == '__main__':
-    unittest.main()
+    unittest.main() 

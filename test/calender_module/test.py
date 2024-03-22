@@ -12,5 +12,5 @@ class MyTestCase(unittest.TestCase):
         self.assertEqual( calendar_module("11 02 2001"),"FRIDAY")
 
 
-if __name__ == '__main__':
+if __name__ == '__main__': 
     unittest.main()
